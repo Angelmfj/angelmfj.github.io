@@ -1,4 +1,4 @@
-#👋 Hi, I'm Angel Manuel Flores Jesus
+👋 Hi, I'm Angel Manuel Flores Jesus
 
 I am a Computer Systems Technology student at George Brown College with a focus on **cybersecurity, network infrastructure, and system administration**. I enjoy solving technical problems, building secure systems, and continuously improving my skills through hands-on labs and real-world practice.
 
