@@ -79,8 +79,7 @@ I am currently seeking opportunities in **Cybersecurity**, **IT Support**, or **
 ---
 
 ## 📂 Cybersecurity Platforms
-- **TryHackMe:** *(add your profile link)*  
-- **Hack The Box:** *(add your profile link)*  
+- **TryHackMe**  
 
 ---
 
