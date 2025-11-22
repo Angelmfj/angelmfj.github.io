@@ -88,8 +88,7 @@ I am currently seeking opportunities in **Cybersecurity**, **IT Support**, or **
 Feel free to reach out if you want to collaborate, ask questions, or discuss cybersecurity topics.
 
 **📍 Toronto, ON**  
-**📧 Email:** angelmanuel.floresjesus@georgebrown.ca  
-**🔗 LinkedIn:** *(paste your LinkedIn link)*  
+**📧 Email:** angelmanuel.floresjesus@georgebrown.ca   
 
 ---
 
